@@ -1,0 +1,24 @@
+body {
+	background-color: #1a242f !important
+    margin: 0 auto;
+}
+
+.jumbotron { 
+	background-color: #1a242f;
+	text-align: center;
+}
+
+h3 {
+	color: white;
+}
+
+.well {
+	width:30%;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 23px;
+	padding-bottom: 15px;
+
+}
+
+
